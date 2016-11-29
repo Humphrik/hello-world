@@ -1,4 +1,3 @@
-# hello-world
-Doin' it for that contest credit
+Hello Sugar Labs
 
-My name is Kenneth and I am a person
+My name is Kenneth Humphries. I enjoy coding and am currently a junior in highschool.
